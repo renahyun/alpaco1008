@@ -14,8 +14,8 @@
 
  
 ## 4. Dataset : MNIST(0~9의 숫자 이미지) 
-   ### - train: 6만장 
-   ### - test: 3만장
+   ### - Train: 6만장 
+   ### - Test: 3만장
 
 
 ## 5. Architecture
